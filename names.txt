@@ -1,0 +1,4 @@
+thi si sthe vi 
+and this is nano caommad x
+this is the gedit command to append the data in file.
+
